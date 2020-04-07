@@ -1,0 +1,152 @@
+body {
+margin: 0;
+text-align: center;
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+  margin: 100, auto, 0, auto;
+  padding-top: 20px;
+  font-family: 'Great Vibes', cursive;
+}
+
+h2 {
+  margin-top: 0px;
+  padding-bottom: 20px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: lightgrey;
+  height: 5px;
+  width: 30%;
+  margin-bottom: 30px;
+}
+
+td {
+  margin: 30px;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: grey;
+}
+
+div.topcontainer {
+  background-color: #effcef;
+  position: relative;
+  padding-top: 125px;
+  }
+
+div.middle-container {
+  width: 100%;
+  background-color: #94d3ac;
+  position: relative;
+}
+
+div.bottom-container {
+  margin: 0;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  width: 100%;
+  background-color: #effcef;
+}
+
+.navbar {
+  background-color: #effcef;
+}
+
+.intro {
+  width: 40%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 30%;
+  margin: 40px auto 60px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 400px;
+  left: 300px;
+}
+.bird {
+position: absolute;
+top: 200px;
+right:400px;
+}
+
+.forest {
+  padding: 0;
+}
+.profile {
+  padding-top: 100px;
+  padding-bottom: 150px;
+}
+#profilepic{
+  border-radius: 100%;
+  margin-bottom: 20px;
+}
+
+.whale {
+  position: relative;
+  left: 300px;
+  bottom: 100px;
+}
+
+.skills-image {
+  width: 25%;
+  float: right;
+  position: relative;
+  margin-right: 60px;
+}
+.coding-image {
+width: 25%;
+float: right;
+position: relative;
+margin-right: 60px;
+}
+.skills {
+  color: white;
+  background-color: #347474;
+  margin-bottom: 50px;
+}
+
+.skill-row {
+  color: white;
+  background-color: #347474;
+width: 50%;
+margin: 80px auto 60px auto;
+padding-bottom: 90px;
+}
+
+.contact-me {
+  padding-bottom: 30px;
+}
+
+#codingskills {
+  margin-right: 0;
+  display: inline-block;
+  position: relative;
+  margin-left: 80px;
+}
+#regularskills {
+  position: relative;
+  display: inline-block;
+  margin-left: 80px;
+}
+
+
+.copyright {
+font-size: 0.75rem;
+}
